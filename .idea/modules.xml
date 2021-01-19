@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/afteragent/afteragent.iml" filepath="$PROJECT_DIR$/afteragent/afteragent.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ilearning.iml" filepath="$PROJECT_DIR$/.idea/ilearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaagent/javaagent.iml" filepath="$PROJECT_DIR$/javaagent/javaagent.iml" />
     </modules>
   </component>
 </project>
